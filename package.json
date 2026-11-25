@@ -1,0 +1,10 @@
+{
+  "name": "krathong-online",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Online Krathong page for Loy Krathong",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  }
+}
